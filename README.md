@@ -48,4 +48,4 @@ The project followed an iterative approach, focusing on:
   
 Future
 - Battery Integration: Adding a battery power source for portable use.
--App control: To develop app which can help a user rempte control.
+- App control: To develop app which can help a user rempte control.
